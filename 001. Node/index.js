@@ -10,7 +10,8 @@ console.log(add(2,3)); //5
 
 console.log((process.argv));
 /*
-node .\index.js 2 3
+i/p: node .\index.js 2 3
+o/p: 
 [
   'C:\\Program Files\\nodejs\\node.exe',  ==> process execution path
   'C:\\Users\\Epitome\\Desktop\\web practice\\index.js', ==> path for the js file.
