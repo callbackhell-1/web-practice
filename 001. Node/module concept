@@ -1,3 +1,7 @@
+module.exports.addition = function add(a,b){
+    return a+b;
+}
+
 ==>  module.exports is an object
 
 ==>  addition is key & 
